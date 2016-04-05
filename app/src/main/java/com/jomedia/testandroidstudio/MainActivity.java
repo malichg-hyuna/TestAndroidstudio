@@ -97,3 +97,39 @@ public class MainActivity extends AppCompatActivity {
 //sdfskjsdf
 //kjsdfjksdf
 
+//Misha pishet commit!!!!!!!!!!!!!!!!
+
+
+//MEGAMASTER
+//MEGAMASTER
+//MEGAMASTER
+//MEGAMASTER
+//MEGAMASTER
+//MEGAMASTER
+//MEGAMASTER
+//MEGAMASTER
+//MEGAMASTER
+
+
+//MEGAMASTER2
+//MEGAMASTER2
+//MEGAMASTER2
+//MEGAMASTER2
+//MEGAMASTER2
+//MEGAMASTER2
+//MEGAMASTER2
+//MEGAMASTER2
+//MEGAMASTER2
+
+//MEGAMASTER23
+//MEGAMASTER23
+//MEGAMASTER23
+//MEGAMASTER23
+//MEGAMASTER23
+//MEGAMASTER23
+//MEGAMASTER23
+//MEGAMASTER23
+//MEGAMASTER23
+//Misha dalshe pishet!!!!!!!!!!!!!!
+
+//Misha dopisivaet!!!!!!!!!!!!!
